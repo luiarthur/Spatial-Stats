@@ -1,0 +1,251 @@
+"Notes"	"Leading Cancer Sites"	"Leading Cancer Sites Code"	"Sex"	"Sex Code"	"Region"	"Region Code"	"Age Group"	"Age Group Code"	"Ethnicity"	"Ethnicity Code"	Count
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"15-19 years"	"15-19"	"Non-Hispanic"	"2186-5"	47
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"20-24 years"	"20-24"	"Hispanic"	"2135-2"	77
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"20-24 years"	"20-24"	"Non-Hispanic"	"2186-5"	282
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"25-29 years"	"25-29"	"Hispanic"	"2135-2"	324
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"25-29 years"	"25-29"	"Non-Hispanic"	"2186-5"	1920
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"30-34 years"	"30-34"	"Hispanic"	"2135-2"	853
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"30-34 years"	"30-34"	"Non-Hispanic"	"2186-5"	6591
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"35-39 years"	"35-39"	"Hispanic"	"2135-2"	1858
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"35-39 years"	"35-39"	"Non-Hispanic"	"2186-5"	16600
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"40-44 years"	"40-44"	"Hispanic"	"2135-2"	3274
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"40-44 years"	"40-44"	"Non-Hispanic"	"2186-5"	36036
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"45-49 years"	"45-49"	"Hispanic"	"2135-2"	4307
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"45-49 years"	"45-49"	"Non-Hispanic"	"2186-5"	56657
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"50-54 years"	"50-54"	"Hispanic"	"2135-2"	4238
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"50-54 years"	"50-54"	"Non-Hispanic"	"2186-5"	62592
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"55-59 years"	"55-59"	"Hispanic"	"2135-2"	4096
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"55-59 years"	"55-59"	"Non-Hispanic"	"2186-5"	64284
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"60-64 years "	"60-64"	"Hispanic"	"2135-2"	3746
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"60-64 years "	"60-64"	"Non-Hispanic"	"2186-5"	65710
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"65-69 years"	"65-69"	"Hispanic"	"2135-2"	3224
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"65-69 years"	"65-69"	"Non-Hispanic"	"2186-5"	61377
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"70-74 years"	"70-74"	"Hispanic"	"2135-2"	2504
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"70-74 years"	"70-74"	"Non-Hispanic"	"2186-5"	58086
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"75-79 years"	"75-79"	"Hispanic"	"2135-2"	2012
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"75-79 years"	"75-79"	"Non-Hispanic"	"2186-5"	55233
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"80-84 years"	"80-84"	"Hispanic"	"2135-2"	1229
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"80-84 years"	"80-84"	"Non-Hispanic"	"2186-5"	44217
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"85+ years"	"85+"	"Hispanic"	"2135-2"	957
+	"Breast"	"26000"	"Female"	"F"	"Northeast"	"CENS-R1"	"85+ years"	"85+"	"Non-Hispanic"	"2186-5"	38428
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"15-19 years"	"15-19"	"Non-Hispanic"	"2186-5"	40
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"20-24 years"	"20-24"	"Hispanic"	"2135-2"	28
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"20-24 years"	"20-24"	"Non-Hispanic"	"2186-5"	442
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"25-29 years"	"25-29"	"Hispanic"	"2135-2"	159
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"25-29 years"	"25-29"	"Non-Hispanic"	"2186-5"	2422
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"30-34 years"	"30-34"	"Hispanic"	"2135-2"	461
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"30-34 years"	"30-34"	"Non-Hispanic"	"2186-5"	7658
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"35-39 years"	"35-39"	"Hispanic"	"2135-2"	878
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"35-39 years"	"35-39"	"Non-Hispanic"	"2186-5"	18450
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"40-44 years"	"40-44"	"Hispanic"	"2135-2"	1383
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"40-44 years"	"40-44"	"Non-Hispanic"	"2186-5"	39193
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"45-49 years"	"45-49"	"Hispanic"	"2135-2"	1858
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"45-49 years"	"45-49"	"Non-Hispanic"	"2186-5"	61240
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"50-54 years"	"50-54"	"Hispanic"	"2135-2"	1672
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"50-54 years"	"50-54"	"Non-Hispanic"	"2186-5"	72016
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"55-59 years"	"55-59"	"Hispanic"	"2135-2"	1537
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"55-59 years"	"55-59"	"Non-Hispanic"	"2186-5"	76387
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"60-64 years "	"60-64"	"Hispanic"	"2135-2"	1281
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"60-64 years "	"60-64"	"Non-Hispanic"	"2186-5"	76123
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"65-69 years"	"65-69"	"Hispanic"	"2135-2"	1045
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"65-69 years"	"65-69"	"Non-Hispanic"	"2186-5"	73200
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"70-74 years"	"70-74"	"Hispanic"	"2135-2"	776
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"70-74 years"	"70-74"	"Non-Hispanic"	"2186-5"	66778
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"75-79 years"	"75-79"	"Hispanic"	"2135-2"	589
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"75-79 years"	"75-79"	"Non-Hispanic"	"2186-5"	61897
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"80-84 years"	"80-84"	"Hispanic"	"2135-2"	421
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"80-84 years"	"80-84"	"Non-Hispanic"	"2186-5"	48663
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"85+ years"	"85+"	"Hispanic"	"2135-2"	248
+	"Breast"	"26000"	"Female"	"F"	"Midwest"	"CENS-R2"	"85+ years"	"85+"	"Non-Hispanic"	"2186-5"	44368
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"15-19 years"	"15-19"	"Hispanic"	"2135-2"	20
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"15-19 years"	"15-19"	"Non-Hispanic"	"2186-5"	75
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"20-24 years"	"20-24"	"Hispanic"	"2135-2"	121
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"20-24 years"	"20-24"	"Non-Hispanic"	"2186-5"	662
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"25-29 years"	"25-29"	"Hispanic"	"2135-2"	650
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"25-29 years"	"25-29"	"Non-Hispanic"	"2186-5"	3827
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"30-34 years"	"30-34"	"Hispanic"	"2135-2"	1817
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"30-34 years"	"30-34"	"Non-Hispanic"	"2186-5"	11984
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"35-39 years"	"35-39"	"Hispanic"	"2135-2"	3899
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"35-39 years"	"35-39"	"Non-Hispanic"	"2186-5"	28120
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"40-44 years"	"40-44"	"Hispanic"	"2135-2"	6802
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"40-44 years"	"40-44"	"Non-Hispanic"	"2186-5"	57219
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"45-49 years"	"45-49"	"Hispanic"	"2135-2"	8708
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"45-49 years"	"45-49"	"Non-Hispanic"	"2186-5"	87807
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"50-54 years"	"50-54"	"Hispanic"	"2135-2"	8548
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"50-54 years"	"50-54"	"Non-Hispanic"	"2186-5"	102672
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"55-59 years"	"55-59"	"Hispanic"	"2135-2"	8014
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"55-59 years"	"55-59"	"Non-Hispanic"	"2186-5"	110878
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"60-64 years "	"60-64"	"Hispanic"	"2135-2"	7438
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"60-64 years "	"60-64"	"Non-Hispanic"	"2186-5"	113759
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"65-69 years"	"65-69"	"Hispanic"	"2135-2"	7015
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"65-69 years"	"65-69"	"Non-Hispanic"	"2186-5"	108677
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"70-74 years"	"70-74"	"Hispanic"	"2135-2"	5746
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"70-74 years"	"70-74"	"Non-Hispanic"	"2186-5"	94633
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"75-79 years"	"75-79"	"Hispanic"	"2135-2"	4625
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"75-79 years"	"75-79"	"Non-Hispanic"	"2186-5"	82554
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"80-84 years"	"80-84"	"Hispanic"	"2135-2"	2950
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"80-84 years"	"80-84"	"Non-Hispanic"	"2186-5"	60748
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"85+ years"	"85+"	"Hispanic"	"2135-2"	2265
+	"Breast"	"26000"	"Female"	"F"	"South"	"CENS-R3"	"85+ years"	"85+"	"Non-Hispanic"	"2186-5"	49697
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"15-19 years"	"15-19"	"Hispanic"	"2135-2"	16
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"15-19 years"	"15-19"	"Non-Hispanic"	"2186-5"	35
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"20-24 years"	"20-24"	"Hispanic"	"2135-2"	112
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"20-24 years"	"20-24"	"Non-Hispanic"	"2186-5"	303
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"25-29 years"	"25-29"	"Hispanic"	"2135-2"	703
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"25-29 years"	"25-29"	"Non-Hispanic"	"2186-5"	1759
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"30-34 years"	"30-34"	"Hispanic"	"2135-2"	2052
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"30-34 years"	"30-34"	"Non-Hispanic"	"2186-5"	6058
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"35-39 years"	"35-39"	"Hispanic"	"2135-2"	4255
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"35-39 years"	"35-39"	"Non-Hispanic"	"2186-5"	14687
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"40-44 years"	"40-44"	"Hispanic"	"2135-2"	7658
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"40-44 years"	"40-44"	"Non-Hispanic"	"2186-5"	31842
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"45-49 years"	"45-49"	"Hispanic"	"2135-2"	9888
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"45-49 years"	"45-49"	"Non-Hispanic"	"2186-5"	51918
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"50-54 years"	"50-54"	"Hispanic"	"2135-2"	9620
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"50-54 years"	"50-54"	"Non-Hispanic"	"2186-5"	62351
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"55-59 years"	"55-59"	"Hispanic"	"2135-2"	8831
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"55-59 years"	"55-59"	"Non-Hispanic"	"2186-5"	67502
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"60-64 years "	"60-64"	"Hispanic"	"2135-2"	7750
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"60-64 years "	"60-64"	"Non-Hispanic"	"2186-5"	68259
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"65-69 years"	"65-69"	"Hispanic"	"2135-2"	6809
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"65-69 years"	"65-69"	"Non-Hispanic"	"2186-5"	63908
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"70-74 years"	"70-74"	"Hispanic"	"2135-2"	5297
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"70-74 years"	"70-74"	"Non-Hispanic"	"2186-5"	55737
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"75-79 years"	"75-79"	"Hispanic"	"2135-2"	4123
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"75-79 years"	"75-79"	"Non-Hispanic"	"2186-5"	49861
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"80-84 years"	"80-84"	"Hispanic"	"2135-2"	2531
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"80-84 years"	"80-84"	"Non-Hispanic"	"2186-5"	37447
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"85+ years"	"85+"	"Hispanic"	"2135-2"	1857
+	"Breast"	"26000"	"Female"	"F"	"West"	"CENS-R4"	"85+ years"	"85+"	"Non-Hispanic"	"2186-5"	31426
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"30-34 years"	"30-34"	"Non-Hispanic"	"2186-5"	20
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"35-39 years"	"35-39"	"Non-Hispanic"	"2186-5"	73
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"40-44 years"	"40-44"	"Non-Hispanic"	"2186-5"	138
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"45-49 years"	"45-49"	"Non-Hispanic"	"2186-5"	222
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"50-54 years"	"50-54"	"Hispanic"	"2135-2"	21
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"50-54 years"	"50-54"	"Non-Hispanic"	"2186-5"	391
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"55-59 years"	"55-59"	"Hispanic"	"2135-2"	25
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"55-59 years"	"55-59"	"Non-Hispanic"	"2186-5"	502
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"60-64 years "	"60-64"	"Hispanic"	"2135-2"	36
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"60-64 years "	"60-64"	"Non-Hispanic"	"2186-5"	661
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"65-69 years"	"65-69"	"Hispanic"	"2135-2"	19
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"65-69 years"	"65-69"	"Non-Hispanic"	"2186-5"	724
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"70-74 years"	"70-74"	"Hispanic"	"2135-2"	20
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"70-74 years"	"70-74"	"Non-Hispanic"	"2186-5"	704
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"75-79 years"	"75-79"	"Non-Hispanic"	"2186-5"	749
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"80-84 years"	"80-84"	"Non-Hispanic"	"2186-5"	570
+	"Breast"	"26000"	"Male"	"M"	"Northeast"	"CENS-R1"	"85+ years"	"85+"	"Non-Hispanic"	"2186-5"	484
+	"Breast"	"26000"	"Male"	"M"	"Midwest"	"CENS-R2"	"30-34 years"	"30-34"	"Non-Hispanic"	"2186-5"	31
+	"Breast"	"26000"	"Male"	"M"	"Midwest"	"CENS-R2"	"35-39 years"	"35-39"	"Non-Hispanic"	"2186-5"	57
+	"Breast"	"26000"	"Male"	"M"	"Midwest"	"CENS-R2"	"40-44 years"	"40-44"	"Non-Hispanic"	"2186-5"	152
+	"Breast"	"26000"	"Male"	"M"	"Midwest"	"CENS-R2"	"45-49 years"	"45-49"	"Non-Hispanic"	"2186-5"	298
+	"Breast"	"26000"	"Male"	"M"	"Midwest"	"CENS-R2"	"50-54 years"	"50-54"	"Non-Hispanic"	"2186-5"	425
+	"Breast"	"26000"	"Male"	"M"	"Midwest"	"CENS-R2"	"55-59 years"	"55-59"	"Non-Hispanic"	"2186-5"	625
+	"Breast"	"26000"	"Male"	"M"	"Midwest"	"CENS-R2"	"60-64 years "	"60-64"	"Non-Hispanic"	"2186-5"	688
+	"Breast"	"26000"	"Male"	"M"	"Midwest"	"CENS-R2"	"65-69 years"	"65-69"	"Non-Hispanic"	"2186-5"	753
+	"Breast"	"26000"	"Male"	"M"	"Midwest"	"CENS-R2"	"70-74 years"	"70-74"	"Non-Hispanic"	"2186-5"	733
+	"Breast"	"26000"	"Male"	"M"	"Midwest"	"CENS-R2"	"75-79 years"	"75-79"	"Non-Hispanic"	"2186-5"	736
+	"Breast"	"26000"	"Male"	"M"	"Midwest"	"CENS-R2"	"80-84 years"	"80-84"	"Non-Hispanic"	"2186-5"	569
+	"Breast"	"26000"	"Male"	"M"	"Midwest"	"CENS-R2"	"85+ years"	"85+"	"Non-Hispanic"	"2186-5"	453
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"25-29 years"	"25-29"	"Non-Hispanic"	"2186-5"	24
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"30-34 years"	"30-34"	"Non-Hispanic"	"2186-5"	56
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"35-39 years"	"35-39"	"Hispanic"	"2135-2"	18
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"35-39 years"	"35-39"	"Non-Hispanic"	"2186-5"	125
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"40-44 years"	"40-44"	"Hispanic"	"2135-2"	34
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"40-44 years"	"40-44"	"Non-Hispanic"	"2186-5"	296
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"45-49 years"	"45-49"	"Hispanic"	"2135-2"	47
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"45-49 years"	"45-49"	"Non-Hispanic"	"2186-5"	529
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"50-54 years"	"50-54"	"Hispanic"	"2135-2"	43
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"50-54 years"	"50-54"	"Non-Hispanic"	"2186-5"	755
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"55-59 years"	"55-59"	"Hispanic"	"2135-2"	68
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"55-59 years"	"55-59"	"Non-Hispanic"	"2186-5"	982
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"60-64 years "	"60-64"	"Hispanic"	"2135-2"	58
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"60-64 years "	"60-64"	"Non-Hispanic"	"2186-5"	1085
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"65-69 years"	"65-69"	"Hispanic"	"2135-2"	63
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"65-69 years"	"65-69"	"Non-Hispanic"	"2186-5"	1248
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"70-74 years"	"70-74"	"Hispanic"	"2135-2"	61
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"70-74 years"	"70-74"	"Non-Hispanic"	"2186-5"	1223
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"75-79 years"	"75-79"	"Hispanic"	"2135-2"	69
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"75-79 years"	"75-79"	"Non-Hispanic"	"2186-5"	1040
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"80-84 years"	"80-84"	"Hispanic"	"2135-2"	38
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"80-84 years"	"80-84"	"Non-Hispanic"	"2186-5"	817
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"85+ years"	"85+"	"Hispanic"	"2135-2"	21
+	"Breast"	"26000"	"Male"	"M"	"South"	"CENS-R3"	"85+ years"	"85+"	"Non-Hispanic"	"2186-5"	625
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"30-34 years"	"30-34"	"Non-Hispanic"	"2186-5"	21
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"35-39 years"	"35-39"	"Non-Hispanic"	"2186-5"	45
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"40-44 years"	"40-44"	"Hispanic"	"2135-2"	26
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"40-44 years"	"40-44"	"Non-Hispanic"	"2186-5"	99
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"45-49 years"	"45-49"	"Hispanic"	"2135-2"	42
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"45-49 years"	"45-49"	"Non-Hispanic"	"2186-5"	211
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"50-54 years"	"50-54"	"Hispanic"	"2135-2"	28
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"50-54 years"	"50-54"	"Non-Hispanic"	"2186-5"	315
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"55-59 years"	"55-59"	"Hispanic"	"2135-2"	51
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"55-59 years"	"55-59"	"Non-Hispanic"	"2186-5"	462
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"60-64 years "	"60-64"	"Hispanic"	"2135-2"	35
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"60-64 years "	"60-64"	"Non-Hispanic"	"2186-5"	532
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"65-69 years"	"65-69"	"Hispanic"	"2135-2"	57
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"65-69 years"	"65-69"	"Non-Hispanic"	"2186-5"	657
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"70-74 years"	"70-74"	"Hispanic"	"2135-2"	32
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"70-74 years"	"70-74"	"Non-Hispanic"	"2186-5"	592
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"75-79 years"	"75-79"	"Hispanic"	"2135-2"	37
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"75-79 years"	"75-79"	"Non-Hispanic"	"2186-5"	560
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"80-84 years"	"80-84"	"Hispanic"	"2135-2"	26
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"80-84 years"	"80-84"	"Non-Hispanic"	"2186-5"	461
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"85+ years"	"85+"	"Hispanic"	"2135-2"	18
+	"Breast"	"26000"	"Male"	"M"	"West"	"CENS-R4"	"85+ years"	"85+"	"Non-Hispanic"	"2186-5"	353
+"---"
+"Dataset: United States Cancer Statistics, 1999-2012 Incidence"
+"Query Parameters:"
+"Title: Cancer by Regions"
+"Age Group: All"
+"Ethnicity: All"
+"Leading Cancer Sites: Breast"
+"Race: All"
+"Regions: All"
+"Sex: All"
+"Year: All, 1999 to 2012"
+"Group By: Leading Cancer Sites, Sex, Region, Age Group, Ethnicity"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Standard Population: 2000 U.S. Std. Million"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cancer-v2012.html for more information."
+"---"
+"Query Date: Sep 9, 2015 5:15:47 PM"
+"---"
+"Suggested Citation: United States Cancer Statistics: 1999 - 2012 Incidence, WONDER Online Database. United States Department of"
+"Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute; 2015. Accessed at"
+"http://wonder.cdc.gov/cancer-v2012.html on Sep 9, 2015 5:15:47 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Count are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Count are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data for in situ breast cancers are listed separately and are not included in the ""All Invasive Cancer Sites Combined"" or"
+"""Male and Female Breast"" cancer categories."
+"---"
+Caveats:
+"1. The ""Show Totals"" checkbox is disabled when data are grouped by Cancer Sites or by Childhood Cancer, because aggregate"
+"values are displayed in the table. Also be aware that charts and maps containing both aggregate and detail data could be"
+"misleading."
+"2. Age-adjusted rates are not available when results are grouped by age."
+"3. Data are suppressed if fewer than 16 cases are reported in the specific category. Data for the ""Asian / Pacific Islander"","
+"""American Indian or Alaska Native"", and the ""Other Races Combined"" race categories are suppressed at the Metropolitan"
+"Statistical Area level for populations less than 50,000 persons. Data are suppressed at the state level for certain race and"
+"ethnicity groups: 1) American Indian or Alaska Native data are suppressed at the state level for Delaware, Illinois, Kansas,"
+"Kentucky, New Jersey, New York, and South Carolina; 2) Asian or Pacific Islander data are suppressed at the state level for"
+"Delaware, Illinois, Kansas, Kentucky, and South Carolina; 3) Hispanic data are supressed at the state level for Delaware,"
+"Kentucky, Massachusetts, Pennsylvania, and South Carolina. More information:"
+"http://wonder.cdc.gov/wonder/help/cancer-v2012.html#Confidentiality."
+"4. Data are from selected statewide and metropolitan area cancer registries that meet data quality criteria."
+"5. For the 2005 year, the Census Bureau estimates that 203,937 persons were displaced from Alabama, Louisiana, Mississippi and"
+"Texas due to Hurricanes Katrina and Rita. CDC WONDER does not include the displaced persons in the 2005 population counts for"
+"these states, nor are these counts included in the summary populations for the affected division, regions or national"
+"population. However, the USCS web site does include these displaced persons in the national population figures for 2005."
+"6. Information on primary site, behavior, and histology was coded according to the International Classification of Diseases for"
+"Oncology, Third Edition (ICD-O-3) and categorized according to the revised SEER recodes dated January 27, 2003, which define"
+"standard groupings of primary cancer sites."
