@@ -16,9 +16,6 @@ rgx <- function(pattern,x,b=0,e=0) {
   substr(x,start+b,end-e)
 }
 
-# Missing Hospitals
-miss <- m[which(is.na(location)),]
-
 lat <- NULL
 lon <- NULL
 for (i in 1:length(location)) {
@@ -33,7 +30,10 @@ write.table(out,"outpatient_vol.csv",quote=F,row.names=F,sep="|")
 system("cp outpatient.csv ~/luiarthur.github.io/assets/Hospital_Outpatient")
 
 
-prop <- cbind(m[,4:10],lat,lon)
+prop <- cbind(m[,4:10],
+             as.numeric(as.character(lat)),
+             as.numeric(as.character(lon)))
+
 for (i in 1:nrow(prop)) {
   r <- prop[i,1:7]
   r <- unlist(ifelse(is.na(r),0,r))
@@ -42,20 +42,11 @@ for (i in 1:nrow(prop)) {
   } 
   prop[i,1:7] <- r
 }
+
 prop <- prop[which(apply(prop[,1:7],1,sum)>0),]
-
-#v <- "Cardiovascular"
-for (v in colnames(prop)[1:7]) {
-  V <- cbind(prop[v],
-             as.numeric(as.character(prop$lat)),
-             as.numeric(as.character(prop$lon)))
-
-  #V <- V[-which(is.na(V[,1])),]
-  colnames(V) <- c(v,'lat','lon')
-
-  write.csv(V,paste0(v,".csv"),quote=F,row.names=F)
-  system(paste0("cp ",v,".csv ~/luiarthur.github.io/assets/Hospital_Outpatient"))
-
-}
-
+colnames(prop)[8:9] <- c("lat","lon")
 apply(prop[,1:7],2,quantile)
+
+write.csv(prop,"prop.csv",quote=F,row.names=F)
+system("cp prop.csv ~/luiarthur.github.io/assets/Hospital_Outpatient")
+
