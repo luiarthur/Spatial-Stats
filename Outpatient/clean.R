@@ -43,10 +43,10 @@ for (i in 1:nrow(prop)) {
   prop[i,1:7] <- r
 }
 
-prop <- prop[which(apply(prop[,1:7],1,sum)>0),]
-colnames(prop)[8:9] <- c("lat","lon")
+ind <- which(apply(prop[,1:7],1,sum)>0)
+prop <- cbind(prop[ind,],m$Hospital[ind])
+colnames(prop)[8:10] <- c("lat","lon","hospital")
 apply(prop[,1:7],2,quantile)
 
 write.csv(prop,"prop.csv",quote=F,row.names=F)
 system("cp prop.csv ~/luiarthur.github.io/assets/Hospital_Outpatient")
-
