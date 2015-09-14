@@ -15,4 +15,6 @@ for (i in 1:n) {
 }
 
 out <- cbind(x,fips)
-write.csv(out,"chr2015fips.csv",quote=F,row.names=F)
+write.csv(out,"chr2015fips.csv",quote=T,row.names=F)
+
+
